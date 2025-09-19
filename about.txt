@@ -1,0 +1,3 @@
+Name:Sindhu
+Course:B.Sc-Computers
+GitHub is an online platform used to store projects by the help of repositories(folders).
